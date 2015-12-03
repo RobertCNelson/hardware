@@ -1,1 +1,1 @@
-SAM1204-23-ND : 0.100 46Pos conn
+SAM1204-23-ND,2,0.100 46Pos conn
